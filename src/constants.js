@@ -9,7 +9,7 @@ export const dialogueData = {
   projects:
     "You can visit my <a href='https://github.com/albertdc1984' target='blank'>GitHub</a> To see some of the things I've done so far (Including this portfolio)",
   library:
-    "I have lots books about Music, Cinema, History, Coding & of course.. Spider-Man!",
+    "I have lots books about Coding, Music, Cinema, History, UFOs, Ghosts & of course.. Spider-Man!",
   "sofa-table":
     "A nap on the sofa! That's what my cats do best, I kinda envy them. Vera & Ermessenda: move your lazy ass! 😡",
   "cs-degree":
