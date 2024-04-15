@@ -13,10 +13,11 @@ export const dialogueData = {
   "sofa-table":
     "A nap on the sofa! That's what my cats do best, I kinda envy them. Vera & Ermessenda: move your lazy ass! 😡",
   "cs-degree":
-    "That's my wife's degree... I didn't finish mine but I will some day. You're never too old to learn, right?",
+    "That's my bachelor's degree... I'd love to continue my studies one day. You're never too old to learn, right?",
   exit: "Are you asking me to jump down there?",
   records:
     "Oi! Oi! My neighbours hate this LOL<br>If you do too, please, turn it off<br><button onclick='document.querySelector(`.audio`).pause()' style='padding: 0; border: none; font-size: 30px; background-color: transparent; cursor: pointer;'>⏸️</button>",
   guitar:
     "I love to play bass guitar. Playing it just 10 minutes is enought to make my stress vanish",
+  anna: "My wife Anna is a Psychotherapist. I don't want to disturb her, is seems she's working right now...",
 };
