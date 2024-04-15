@@ -1,7 +1,7 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  pc: "My Pc became my best friend when I sarted my developer career. I used to work as a bus driver & occassional camera operator a few years ago. I know I'm not young but I'm on my way to become a great developer, wait and see...",
+  pc: "I've been a bus driver and ocassional camera operator for a long time. I always liked coding dough. I did my first 'pang' game with java a long time ago. In 2021 I made the decision to study in order to become a professional developer. It was not easy but I really love challenges",
   tv: "I love to watch old horror movies but I don't really have much time to do that",
   bed: "I need to sleep 8 hours to be a functional man but I'm getting old and I can't sleep more than that neither",
   resume:
