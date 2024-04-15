@@ -11,7 +11,7 @@ export const dialogueData = {
   library:
     "I have lots books about Music, Cinema, History, Coding & of course.. Spider-Man!",
   "sofa-table":
-    "A nap on the sofa! That's what my cats do best, I kinda envy them. Vera & Ermessenda: move yor lazy ass! 😡",
+    "A nap on the sofa! That's what my cats do best, I kinda envy them. Vera & Ermessenda: move your lazy ass! 😡",
   "cs-degree":
     "That's my wife's degree... I didn't finish mine but I will some day. You're never too old to learn, right?",
   exit: "Are you asking me to jump down there?",
