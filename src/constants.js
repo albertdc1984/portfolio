@@ -5,7 +5,7 @@ export const dialogueData = {
   tv: "I love to watch old horror movies but I don't really have much time to do that",
   bed: "I need to sleep 8 hours to be a functional man but I'm getting old and I can't sleep more than that neither",
   resume:
-    "You can find my CV at <a href='https:///www.linkedin.com/in/albert-company-developer' target='blank'>LinkedIn</a> or download it <a href='https://drive.google.com/file/d/172bkD0f1KosU8s2ANbz7QHHiOb3BK68s/view' target='blank'>here</a> . If you visit my LinkedIn don't forget to say 'Hi!' ",
+    "You can find my CV at <a href='https:///www.linkedin.com/in/albert-company-developer' target='blank'>LinkedIn</a> or download it <a href='https://drive.google.com/file/d/1ekSULO5-ZItpnCYAFNoe-2UOgC8inP6E' target='blank'>here</a> . If you visit my LinkedIn don't forget to say 'Hi!' ",
   projects:
     "You can visit my <a href='https://github.com/albertdc1984' target='blank'>GitHub</a> To see some of the things I've done so far (Including this portfolio)",
   library:
